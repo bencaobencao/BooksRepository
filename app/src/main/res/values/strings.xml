@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BooksRepository</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo_aviso">Aviso</string>
+    <string name="mensagem_aviso">Há campos vazios ou inválidos</string>
+    <string name="ok_aviso">OK</string>
+</resources>
